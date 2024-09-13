@@ -1,0 +1,13 @@
+{
+    "Recorder": "recorder/component_definition.json",
+    "LocalFeeder": "LocalFeeder/component_definition.json",
+    "MeasurementComponent": "measuring_federate/component_definition.json",
+<<<<<<< HEAD
+    "StateEstimatorComponent": "wls_federate/component_definition.json",
+    "OMOOComponent": "omoo_federate/component_definition.json",
+    "Feeder": "LocalFeeder/component_definition.json",
+    "OptimalPowerFlow": "lindistflow_federate/component_definition.json"
+=======
+    "StateEstimatorComponent": "dsse_federate/component_definition.json"
+>>>>>>> 15a4e55 (upload)
+}
