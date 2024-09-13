@@ -13,13 +13,6 @@ WORKDIR /simulation
 COPY system.json .
 COPY components.json .
 COPY LocalFeeder LocalFeeder
-<<<<<<< HEAD
-COPY lindistflow_federate lindistflow_federate
-COPY README.md .
-COPY measuring_federate measuring_federate
-COPY wls_federate wls_federate
-=======
->>>>>>> 15a4e55 (upload)
 COPY recorder recorder
 COPY dsse_federate dsse_federate
 COPY measuring_federate measuring_federate

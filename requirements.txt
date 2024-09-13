@@ -3,18 +3,10 @@ scipy
 matplotlib
 numpy
 pandas
-<<<<<<< HEAD
-oedisi>=2.0.2,<3
--r recorder/requirements.txt
--r LocalFeeder/requirements.txt
--r measuring_federate/requirements.txt
--r wls_federate/requirements.txt
--r lindistflow_federate/requirements.txt
-=======
 OpenDSSDirect.py[extras]==0.7.0
 boto3
 xarray
 oedisi==2.0.2
 jupyter
 oct2py
->>>>>>> 15a4e55 (upload)
+
