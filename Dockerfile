@@ -16,7 +16,6 @@ COPY LocalFeeder LocalFeeder
 COPY recorder recorder
 COPY dsse_federate dsse_federate
 COPY measuring_federate measuring_federate
-COPY dopf.ipynb .
 
 RUN mkdir -p outputs build
 
